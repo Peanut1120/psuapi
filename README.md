@@ -11,7 +11,7 @@ Made to interact with the psu buyer api.
 https://j0sh.gitbook.io/psu-api/
 
 
-#Credits
+## Credits
 J0sh - Base
 Pozm - QOl patches
 Autist - QOl patches
